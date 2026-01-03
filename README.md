@@ -9,7 +9,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=carmeliafausto5/uniapp-miniprogram-dev-skill&type=Date)](https://star-history.com/#carmeliafausto5/uniapp-miniprogram-dev-skill&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=carmeliafausto5/uniapp-miniprogram-dev-skill&type=date&legend=top-left)](https://www.star-history.com/#carmeliafausto5/uniapp-miniprogram-dev-skill&type=date&legend=top-left)
 
 ## 📖 简介
 
